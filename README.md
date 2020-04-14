@@ -9,7 +9,7 @@ A simple jquery plugin that displays an error message using the Bootstrap alert 
 
 ### Prerequisites
 
-jquery 2.0.1
+jquery 2.0.1, bootstrap
 
 
 ### Set up
