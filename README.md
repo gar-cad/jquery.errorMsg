@@ -1,4 +1,4 @@
-# jquery.errorMg
+# jquery.errorMsg
 
 A simple jquery plugin that displays an error message using the Bootstrap alert component. It takes 4 arguments:
 
